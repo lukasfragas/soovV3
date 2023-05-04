@@ -1,0 +1,21 @@
+{
+  "name": "soovv3",
+  "version": "1.0.0",
+  "type": "module",
+
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.9.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-adblocker": "^2.13.6"
+  }
+}
